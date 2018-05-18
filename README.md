@@ -5,7 +5,7 @@ This Project has been built with `create-react-app`, `rmwc` (Google-endorsed Mat
 
 This project contains official, Foundation-based Material Design React components which have been successfully rendered to Sketch using html-sketchapp-cli.
 
-The built JSON files and final Sketch files are included here for reference :)
+The built JSON files and rendered Sketch files are included here for reference :)
 
 
 
